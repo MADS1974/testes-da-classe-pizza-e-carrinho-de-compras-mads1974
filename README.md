@@ -2,7 +2,7 @@
 
 ## Curso - Orientação a Objetos com Java
 
-## Testes da Classe Pizza e CarrinhoDeCompras
+## Testes da Classe Pizza e Carrinho de Compras
 
 ### Conceitos trabalhados
 
