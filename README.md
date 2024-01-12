@@ -1,12 +1,10 @@
-###ITA - Coursera
+# ITA - Instituto Tecnológico de Aeronáutica by Coursera
 
-##Instituto Tecnológico de Aeronáutica
+## Curso - Orientação a Objetos com Java
 
-##Curso - Orientação a Objetos com Java
+## Testes da Classe Pizza e CarrinhoDeCompras
 
-##Testes da Classe Pizza e CarrinhoDeCompras
-
-#Conceitos trabalhados
+### Conceitos trabalhados
 
 Semana 3 do curso Orientação a Objetos com Java! Aprofundando o contato com Testes de Unidade e Diagramas de Classe da UML, bem como com os conceitos de dependência e contrato de classe. 
 
